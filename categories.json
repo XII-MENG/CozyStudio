@@ -1,12 +1,17 @@
-{
-  "totalCategories": 1,
-  "totalApps": 2,
-  "categories": [
-    {
-      "name": "Games",
-      "slug": "games",
-      "count": 1,
-      "lastUpdated": 1750000000
-    }
-  ]
-}
+[
+  "Games",
+  "Apps",
+  "Audio",
+  "Bluetooth",
+  "Games",
+  "GPIO",
+  "Infrared",
+  "Media",
+  "RFID",
+  "RF",
+  "Themes",
+  "Tools",
+  "USB",
+  "Utilities",
+  "WiFi"
+]
