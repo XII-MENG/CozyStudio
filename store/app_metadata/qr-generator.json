@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "category": "Games",
+  "path": "files/games/qr-generator/",
+  "files": [
+    "qr.js"
+  ]
+}

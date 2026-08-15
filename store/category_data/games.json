@@ -1,0 +1,13 @@
+{
+  "category": "Games",
+  "count": 1,
+  "apps": [
+    {
+      "n": "QR Generator",
+      "v": "1.0.0",
+      "s": "qr-generator",
+      "o": "Bakunawa Studio",
+      "d": "Generate QR codes from text"
+    }
+  ]
+}
