@@ -1,23 +1,11 @@
 {
-  "totalCategories": 3,
+  "totalCategories": 1,
   "totalApps": 2,
   "categories": [
     {
-      "name": "Tools",
-      "slug": "tools",
+      "name": "Games",
+      "slug": "games",
       "count": 1,
-      "lastUpdated": 1750000000
-    },
-    {
-      "name": "Utilities",
-      "slug": "utilities",
-      "count": 1,
-      "lastUpdated": 1750000000
-    },
-    {
-      "name": "Themes",
-      "slug": "themes",
-      "count": 0,
       "lastUpdated": 1750000000
     }
   ]
