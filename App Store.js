@@ -6,7 +6,7 @@ var wifi = require("wifi");
 
 // ================== CONFIG ==================
 // Change YOUR_USERNAME to your GitHub username
-var BASE_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/bruce-appstore-data/main";
+var BASE_URL = "https://raw.githubusercontent.com/XII-MENG/CozyStudio-Data/main";
 var CATEGORIES_URL = BASE_URL + "/categories.json";
 // ============================================
 
