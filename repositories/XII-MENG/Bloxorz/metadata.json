@@ -1,13 +1,16 @@
 {
-  "name": "Bloxorz",
-  "description": "Simple Blocky Game that makes its way to exit using its blocky shape",
-  "category": "Games",
-  "version": "1.0.0",
-  "commit": "0000000000000000000000000000000000000000",
-  "owner": "MENGXII",
-  "repo": "Bloxorz",
+  "name": "App Store",
+  "description": "App store for Bruce devices with over-the-air install and updates for scripts and themes",
+  "category": "Tools",
+  "version": "1.0.1",
+  "commit": "b0d03fe0fbcd0c1f2668af1294b6d0c292fe8d7a",
+  "owner": "BruceDevices",
+  "repo": "App-Store",
   "path": "/",
   "files": [
-    "Bloxorz.js"
+    {
+      "source": "minified/App Store.js",
+      "destination": "App Store.js"
+    }
   ]
 }
