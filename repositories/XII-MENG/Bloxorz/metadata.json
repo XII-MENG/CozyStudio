@@ -1,0 +1,13 @@
+{
+  "name": "Bloxorz",
+  "description": "Simple Blocky Game that makes its way to exit using its blocky shape",
+  "category": "Games",
+  "version": "1.0.0",
+  "commit": "0000000000000000000000000000000000000000",
+  "owner": "MENGXII",
+  "repo": "Bloxorz",
+  "path": "/",
+  "files": [
+    "Bloxorz.js"
+  ]
+}
